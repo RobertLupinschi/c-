@@ -3,6 +3,6 @@
 
 using namespace std;
 
-in main() {
+int main() {
     
 }
